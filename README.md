@@ -1,5 +1,4 @@
-# TwitterEventParticipation
-Implements Deep learning models for the ACL 2017 paper "Determining Whether and When People Participate in the Events They Tweet About"
+# Determining Whether and When People Participate in the Events They Tweet About
 
 This code implements an LSTM model to predict the class lables for the task described in the following ACL paper:
 
